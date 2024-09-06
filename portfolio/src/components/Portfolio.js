@@ -25,7 +25,7 @@ const projectList = [
     title: "My Resume Site",
     description:
       "Explore my complete Projects and skills from my resume...",
-    url: "https://nikhilundare.github.io/Nikhil_Resume/",
+    url: "https://nikhilundare.github.io/OnlineResume/",
   },
   {
     title: "Some other info about Me",
