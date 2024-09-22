@@ -9,11 +9,16 @@ const imageAltText = "desktop with books and laptop";
 
 
 const projectList = [
+ 
   {
-    title: "Event Proposal",
+    title: "Estate_Finder",
     description:
-      "Built the backend using NodeJS to serve the APIs. Worked on the database schema design for MongoDB. Developed Header, Footer, User Post and Upload Form components using React. Implemented frontend routes using react-router. ",
-    url: " https://event-proposal-react-2023.onrender.com ",
+       ` Developed a full-stack real estate app allowing users to search/filter properties across Indian cities.
+        Integrated advanced search with filters for property type, location, price, and amenities.
+       Built a responsive UI with React and Tailwind for optimal user experience across devices.
+        Utilized MongoDB and Express.js for backend data management and RESTful APIs.
+       Deployed the app on Render for scalability and continuous integration.`,
+    url: "https://estate-finder-v7cd.onrender.com/",
   },
   {
     title: "E-Commerce-Store",
@@ -22,16 +27,17 @@ const projectList = [
     url: " https://ecommerce-store-jade-chi.vercel.app  ",
   },
   {
+    title: "Event Proposal",
+    description:
+      "Built the backend using NodeJS to serve the APIs. Worked on the database schema design for MongoDB. Developed Header, Footer, User Post and Upload Form components using React. Implemented frontend routes using react-router. ",
+    url: " https://event-proposal-react-2023.onrender.com ",
+  },
+  
+  {
     title: "My Resume Site",
     description:
       "Explore my complete Projects and skills from my resume...",
     url: "https://nikhilundare.github.io/OnlineResume/",
-  },
-  {
-    title: "Some other info about Me",
-    description:
-      "",
-    url: "#",
   },
 ];
 
